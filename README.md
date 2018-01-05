@@ -1,4 +1,4 @@
-# Project Title
+# Particle Sworm Optimization
 
 This is a simple MATLAB implementation of the particle sworm optimization (PSO) algorithm. It finds the minimum of a single-input function without any differentiation.
 
